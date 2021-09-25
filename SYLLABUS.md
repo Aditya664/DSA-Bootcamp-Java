@@ -45,49 +45,35 @@
         - [Linear Search](https://youtu.be/_HRA37X8N_Q)
         - [Binary Search](https://youtu.be/f6UU7V3szVw)
         - [Modified Binary Search](https://youtu.be/f6UU7V3szVw?t=2508)
-        - Binary Search on 2D Arrays
+        - [Binary Search on 2D Arrays](https://www.youtube.com/watch?v=enI_KyGLYPo)
     - Sorting
         - [Insertion Sort](https://youtu.be/By_5-RRqVeE)
         - [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
         - [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
         - [Cyclic Sort](https://youtu.be/JfinxytTYFQ)
-        - (More later)
-    - Sliding window
-    - Two Pointer
-    - Subarray Questions
-- Pattern questions
+- [Pattern questions](https://youtu.be/lsOOs5J8ycw)
 - [Strings](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
     - [Introduction](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
     - [How Strings work](https://youtu.be/zL1DPZ0Ovlo?t=216)
     - [Comparison of methods](https://youtu.be/zL1DPZ0Ovlo?t=977)
     - [Operations in Strings](https://youtu.be/zL1DPZ0Ovlo?t=1681)
     - [StringBuilder in java](https://youtu.be/zL1DPZ0Ovlo?t=4199)
-- Maths for DSA
-    - Introduction
-    - Complete Bitwise Operators
+- [Maths for DSA](https://youtu.be/fzip9Aml6og)
+    - [Introduction](https://youtu.be/fzip9Aml6og?t=20)
+    - [Complete Bitwise Operators](https://www.youtube.com/watch?t=95)
+    - [Range of numbers](https://www.youtube.com/watch?t=4169)
     - Prime numbers
     - HCF / LCM
     - Sieve of Eratosthenes
     - Newton's Square Root Method
     - Number Theory
     - Euclidean algorithm
-    - Advanced Concepts for CP (later in the course)
-        - Bitwise + DP
-        - Extended Euclidean algorithm
-        - Modulo Properties
-        - Modulo Multiplicative Inverse
-        - Linear Diophantine Equations
-        - Fermat’s Theorem
-        - Wilson's Theorem
-        - Lucas Theorem
-        - Chinese Remainder Theorem
-- Recursion
-    - Introduction
-    - Why recursion?
-    - Flow of recursive programs - stacks
-    - Convert recursion to iteration
-    - Tree building of function calls
-    - Tail recursion
+- [Recursion](https://youtu.be/M2uO2nMT0Bk)
+    - [Introduction](https://youtu.be/M2uO2nMT0Bk)
+    - [Flow of recursive programs - stacks](https://youtu.be/M2uO2nMT0Bk?t=2124)
+    - [Why recursion?](https://youtu.be/M2uO2nMT0Bk?t=2708)
+    - [Tree building of function calls](https://youtu.be/M2uO2nMT0Bk?t=3033)
+    - [Tail recursion](https://youtu.be/M2uO2nMT0Bk?t=4308)
     - Sorting:
         - Merge Sort
         - Quick Sort
@@ -100,17 +86,18 @@
     - Recursion Array Problems
     - Recursion Pattern Problems
     - Subset Questions
-- Space and Time Complexity Analysis
-    - Introduction
-    - Comparisons of various cases
-    - Solving Linear Recurrence Relations
-    - Solving Divide and Conquer Recurrence Relations
-    - Big-O, Big-Omega, Big-Theta Notations
-    - Get equation of any relation easily - best and easiest approach
-    - Complexity discussion of all the problems we do
-    - Space Complexity 
-    - Memory Allocation of various languages
-    - NP-Completeness and Hardness
+- [Space and Time Complexity Analysis](https://youtu.be/mV3wrLBbuuE)
+    - [Introduction](https://youtu.be/mV3wrLBbuuE)
+    - [Comparisons of various cases](https://youtu.be/mV3wrLBbuuE?t=1039)
+    - [Solving Linear Recurrence Relations](https://youtu.be/mV3wrLBbuuE?t=6252)
+    - [Solving Divide and Conquer Recurrence Relations](https://youtu.be/mV3wrLBbuuE?t=4609)
+    - [Big-O, Big-Omega, Big-Theta Notations](https://youtu.be/mV3wrLBbuuE?t=2271)
+    - [Little Notations](https://youtu.be/mV3wrLBbuuE?t=2960)
+    - [Get equation of any relation easily - best and easiest approach](https://youtu.be/mV3wrLBbuuE?t=8189)
+    - [Complexity discussion of all the problems we do](https://youtu.be/mV3wrLBbuuE?t=3866)
+    - [Space Complexity](https://youtu.be/mV3wrLBbuuE?t=3330)
+    - [Memory Allocation of various languages](https://youtu.be/mV3wrLBbuuE)
+    - [NP-Completeness Introduction](https://youtu.be/mV3wrLBbuuE?t=8695)
 - Object Oriented Programming
     - Introduction
     - Classes & its instances
@@ -134,7 +121,7 @@
     - Lambda Expression
     - Enums
     - Fast IO
-	- File handling
+    - File handling
 - Greedy Algorithms
 - Stacks & Queues
     - Introduction
@@ -189,6 +176,7 @@
     - Chaining
     - Probing
     - Huffman-Encoder
+- Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
 - Tries
 - Graphs
     - Introduction
@@ -202,3 +190,16 @@
     - Topological Sort
     - Bellman ford
     - A* pathfinding Algorithm
+
+### Advanced concepts apart from interviews 
+- Bitwise + DP
+- Extended Euclidean algorithm
+- Modulo Multiplicative Inverse
+- Linear Diophantine Equations
+- Matrix Exponentiation
+- Mathematical Expectation
+- Fermat’s Theorem
+- Wilson's Theorem
+- Lucas Theorem
+- Chinese Remainder Theorem
+- NP-Completeness
