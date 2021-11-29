@@ -39,7 +39,7 @@
         - [Binary Search](https://youtu.be/f6UU7V3szVw)
         - [Modified Binary Search](https://youtu.be/f6UU7V3szVw?t=2508)
         - [Binary Search on 2D Arrays](https://www.youtube.com/watch?v=enI_KyGLYPo)
-    - [Sorting](https://www.youtube.com/playlist?list=PL9gnSGHSqcnq-9CXLt9DsInytRMLoyZQ_)
+    - Sorting
         - [Insertion Sort](https://youtu.be/By_5-RRqVeE)
         - [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
         - [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
@@ -63,7 +63,6 @@
     - [Number Theory](https://youtu.be/lmSpZ0bjCyQ?t=4405)
     - [HCF / LCM](https://youtu.be/lmSpZ0bjCyQ?t=5110)
     - [Euclidean algorithm](https://youtu.be/lmSpZ0bjCyQ?t=5520)
-    
 - [Recursion](https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
     - [Introduction](https://youtu.be/M2uO2nMT0Bk)
     - [Flow of recursive programs - stacks](https://youtu.be/M2uO2nMT0Bk?t=2124)
@@ -95,35 +94,38 @@
     - [Space Complexity](https://youtu.be/mV3wrLBbuuE?t=3330)
     - [NP-Completeness Introduction](https://youtu.be/mV3wrLBbuuE?t=8695)
 - [Object Oriented Programming](https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
-    - Introduction
-    - Classes & its instances
-    - this keyword in Java
-    - Properties
-        - Inheritance
-        - Abstraction
-        - Polymorphism
-        - Encapsulation
-    - Overloading & Overriding
-    - Static & Non-Static
-    - Packages
-    - Access Control
-    - Interfaces
-    - Abstract Classes
-    - Singleton Class
-    - final, finalize, finally
-    - Object Cloning
-    - Object Class
-    - Generics
-    - Exception Handling
-    - Collections Framework
-    - Lambda Expression
-    - Enums
+    - [Introduction](https://www.youtube.com/watch?v=BSVKUk58K6U)
+    - [Classes & its instances](https://youtu.be/BSVKUk58K6U?t=467)
+    - [this keyword in Java](https://youtu.be/BSVKUk58K6U?t=3380)
+    - [Properties](https://www.youtube.com/watch?v=46T2wD3IuhM)
+        - [Inheritance](https://youtu.be/46T2wD3IuhM?t=146)
+        - [Abstraction](https://youtu.be/46T2wD3IuhM?t=7102)
+        - [Polymorphism](https://youtu.be/46T2wD3IuhM?t=4226)
+        - [Encapsulation](https://youtu.be/46T2wD3IuhM?t=7022)
+    - [Overloading & Overriding](https://youtu.be/46T2wD3IuhM?t=4834)
+    - [Static & Non-Static](https://youtu.be/_Ya6CN13t8k?t=1137)
+    - [Packages](https://youtu.be/_Ya6CN13t8k?t=182)
+    - [Access Control](https://youtu.be/W145DXs8fFg)
+    - [Interfaces](https://youtu.be/rgHZa7-Dibg?t=1510)
+    - [Abstract Classes](https://youtu.be/rgHZa7-Dibg?t=68)
+    - [Annotations](https://youtu.be/rgHZa7-Dibg?t=3438)
+    - [Singleton Class](https://youtu.be/_Ya6CN13t8k?t=4240) 
+    - [final, finalize, finally](https://youtu.be/46T2wD3IuhM?t=6317)
+    - [Object Cloning](https://youtu.be/OY2lPr8h93U?t=4352)
+    - [Object Class](https://youtu.be/W145DXs8fFg?t=1943)
+    - [Generics](https://www.youtube.com/watch?v=OY2lPr8h93U)
+    - [Exception Handling](https://youtu.be/OY2lPr8h93U?t=3405)
+    - [Collections Framework](https://youtu.be/9ogGan-R1pc?t=49)
+    - [Vector Class](https://youtu.be/9ogGan-R1pc?t=668)
+    - [Lambda Expression](https://youtu.be/OY2lPr8h93U?t=2894) 
+    - [Enums](https://youtu.be/9ogGan-R1pc?t=909)
 - Linked List
-    - Introduction
-    - Fast and slow pointer
-    - Cycle Detection
-    - Single and Doubly LinkedList
-    - Reversal of LinkedList
+    - [Introduction](https://youtu.be/58YbpRDc4yw)
+    - [Singly + Doubly + Circular LinkedList](https://youtu.be/58YbpRDc4yw)
+    - [Fast and slow pointer](https://youtu.be/70tx7KcMROc)
+    - [Cycle Detection](https://youtu.be/70tx7KcMROc)
+    - [Reversal of LinkedList](https://youtu.be/70tx7KcMROc)
+    - [Linked List + Recursion](https://youtu.be/70tx7KcMROc)
 - Stacks & Queues
     - Introduction
     - Interview problems
@@ -131,15 +133,6 @@
     - Pop efficient
     - Queue using Stack and Vice versa
     - Circular Queue
-- Dynamic Programming
-    - Introduction
-    - Recursion + Recursion DP + Iteration + Iteration Space Optimized
-    - Complexity Analysis
-    - 0/1 Knapsack
-    - Subset Questions
-    - Unbounded Knapsack
-    - Subsequence questions
-    - String DP
 - Trees
     - Introduction
     - Binary Trees
@@ -148,8 +141,6 @@
     - BFS
     - AVL Trees
     - Segment Tree
-    - Fenwick Tree / Binary Indexed Tree
-- Square Root Decomposition
 - Heaps
     - Introduction
     - Theory
@@ -173,8 +164,6 @@
     - Huffman-Encoder
     - Top K elements problems
 - Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
-- Greedy Algorithms
-- Tries
 - Graphs
     - Introduction
     - BFS
@@ -187,6 +176,17 @@
     - Topological Sort
     - Bellman ford
     - A* pathfinding Algorithm
+- Dynamic Programming
+    - Introduction
+    - Recursion + Recursion DP + Iteration + Iteration Space Optimized
+    - Complexity Analysis
+    - 0/1 Knapsack
+    - Subset Questions
+    - Unbounded Knapsack
+    - Subsequence questions
+    - String DP
+- Greedy Algorithms
+- Tries
 
 ### Advanced concepts apart from interviews 
 - Fast IO
@@ -206,3 +206,5 @@
 - Euler Totient
 - NP-Completeness
 - Multithreading
+- Fenwick Tree / Binary Indexed Tree
+- Square Root Decomposition
